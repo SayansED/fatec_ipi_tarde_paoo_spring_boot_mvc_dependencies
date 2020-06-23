@@ -1,0 +1,1 @@
+INSERT INTO Veiculo (id, modelo, marca, ano_fabricacao, cor, qtd_Litros_Tanque, qtd_Km_Rodado, autonomia_Veiculo) VALUES (50, 'Corvete ss', 'Chevrolet', 1990, 'Preto', 32.5, 450.5, 14.06);
